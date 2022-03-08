@@ -45,7 +45,7 @@ table th:nth-of-type(4) {
 | | *interaction modeling* | (Hasson et al., 2019) (Li et al., 2019) (Fieraru et al., 2020) | |
 | **3D pose uncertainty** | *multi-pose generation* | (Li and Lee, 2019) (Biggs et al., 2020b)  | |  
 | | *probabilistic modeling* | (Kolotouros et al., 2021) (Wehrbein et al., 2021)  | (Zhang et al., 2021a) | 
-| **Dataset** | *3D pose* | (Sigal et al., 2009) (Ionescu et al., 2014) (Joo et al., 2015) (Mehta et al., 2016) (Lassner et al., 2017) (von Marcard et al., 2018) | (Bala et al., 2020)  (Kearney et al., 2020) (Joska et al., 2021) (Marshall et al., 2021) |  
+| **Dataset** | *3D pose* | (Sigal et al., 2009) (Ionescu et al., 2014) (Joo et al., 2015) (Mehta et al., 2016) (Lassner et al., 2017) (von Marcard et al., 2018) | (Günel et al., 2019) (Bala et al., 2020)  (Kearney et al., 2020) (Joska et al., 2021) (Marshall et al., 2021) (Dunn et al., 2021) |  
 | | *3D shape* | (Varol et al., 2017) (Güler et al., 2018) (Mahmood et al., 2019) (Choutas et al., 2020) | (Kearney et al., 2020) |
 | | *synthetic data* | (Doersch and Zisserman, 2019) (Wang et al., 2019)  (Zhang et al., 2019)  (Sengupta et al., 2020) (Varol et al., 2021) | (Deane et al., 2021) (Bolaños et al., 2021) | 
 
@@ -93,6 +93,8 @@ Dunn, T. W., Marshall, J. D., Severson, K. S., Aldarondo, D. E., Hildebrand, D. 
 Fieraru, M., Zanfir, M., Oneata, E., Popa, A.-I., Olaru, V., & Sminchisescu, C. (2020). Three-dimensional reconstruction of human interactions. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 7214–7223.
 
 Güler, R. A., Neverova, N., & Kokkinos, I. (2018). Densepose: Dense human pose estimation in the wild. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 7297–7306.
+
+Günel, S., Rhodin, H., Morales, D., Campagnolo, J., Ramdya, P., & Fua, P. (2019). DeepFly3D, a deep learning-based approach for 3D limb and appendage tracking in tethered, adult Drosophila. eLife, 8. https://doi.org/10.7554/eLife.48571
 
 Hasson, Y., Varol, G., Tzionas, D., Kalevatykh, I., Black, M. J., Laptev, I., & Schmid, C. (2019). Learning joint reconstruction of hands and manipulated objects. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 11807–11816.
 
