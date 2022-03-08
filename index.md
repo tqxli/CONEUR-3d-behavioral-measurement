@@ -1,3 +1,7 @@
+---
+title: Leaving Flatland: Advances in 3D behavioral measurement
+---
+
 # Expanded Table 1 for Leaving Flatland: Advances in 3D behavioral measurement 
 
 **Emerging directions in 3D human and animal tracking.** Thematically organized compilation of recent studies that illustrate a roadmap for improvements in 3D behavioral tracking based on computer vision and deep learning. 
