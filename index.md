@@ -20,13 +20,13 @@ table th:nth-of-type(4) {
 
 |  |  | Human 3D Tracking | Animal 3D Tracking |
 | --- | --- | --- | ---|
-| **Occlusion robustness** | *2D cross-view fusion + triangulation* | (Qiu et al., 2019) <br /> (He et al., 2020) <br />(Xie et al., 2020) <br /> (Zhang et al., 2021b) <br />(Lin and Lee, 2021)|  |
+| **Occlusion robustness** | *2D cross-view fusion & triangulation* | (Qiu et al., 2019) <br /> (He et al., 2020) <br />(Xie et al., 2020) <br /> (Zhang et al., 2021b) <br />(Lin and Lee, 2021)|  |
 | | *2D keypoint triangulation* | (Iskakov et al., 2019) | (Nath et al., 2018)  <br />(Karashchuk et al., 2021) <br /> (Liu et al., 2021b)  |
 | | *3D volumetric* | (Iskakov et al., 2019) (Tu et al., 2020) <br /> | (Zimmermann et al., 2020) <br /> (Dunn et al., 2021) | 
 | | *temporal information* | (Pavllo et al., 2019) <br /> (Rafi et al., 2020) <br />(Zheng et al., 2021a) <br />(Choi et al., 2021a) <br />(Li et al., 2021b) | (Liu et al., 2021b) <br />(Karashchuk et al., 2021)<br /> (Sarkar et al., 2021)<br /> (Bala et al., 2021) |
 |  | *graphical modeling* | (Cai et al., 2019)<br /> (Qiu et al., 2019) <br />(Zeng et al., 2021) <br />(Zou et al., 2021)<br /> (Xu and Takano, 2021) | (Zhang et al., 2021a) | 
 |  | *explicit occlusion training* | (Cheng et al., 2019)<br /> (Cheng et al., 2020) | | 
-| **Labeled training data efficiency** | *multi-view consistency* | (Mitra et al., 2020) (Jenni and Favaro, 2020) <br />(Wandt, B., Rudolph, M., Zell, P., Rhodin, H., & Rosenhahn, B., 2021) <br /> (Iqbal et al., 2020)<br /> (Usman et al., 2021) | (Yao et al., 2018) <br />(Bala et al., 2021) |
+| **Labeled training data efficiency** | *multi-view consistency* | (Mitra et al., 2020) <br />(Jenni and Favaro, 2020) <br />(Wandt, B., Rudolph, M., Zell, P., Rhodin, H., & Rosenhahn, B., 2021) <br /> (Iqbal et al., 2020)<br /> (Usman et al., 2021) | (Yao et al., 2018) <br />(Bala et al., 2021) |
 |  | *geometric self-supervision* | (Chen et al., 2019a) <br />(Kocabas et al., 2019) <br />(Pavllo et al., 2019) <br />(Li et al., 2020b) <br />(Wang et al., 2020) | | 
 |  | *representation learning* | (Jiang et al., 2019) <br />(Chen et al., 2019b) (Kundu et al., 2020a) (Sun et al., 2020) (Zimmermann et al., 2021) <br />| (Bala et al., 2021)|
 |  | *constraints* | (Ma et al., 2021) <br />(Liu et al., 2021a) | (Karashchuk et al., 2021) | 
